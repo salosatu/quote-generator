@@ -1,0 +1,114 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+    font-size: 3rem;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-decoration: overline;
+    text-shadow: 5px 5px 10px black;
+    font-size: 2rem;
+    margin: 30px;
+}
+
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+button {
+    background-color: black;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    margin: 50px;
+}
+button:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.quotebox {
+    padding: 1.5rem;
+    border-radius: 1rem;
+    max-width: auto;
+    height: 250px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer {
+    font-size: 1.3rem;
+    color: white;
+    text-align: center;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+}
+
+
+@media only screen and (max-width: 425px){
+
+    h1 {
+        font-size: 1.7rem;
+    }
+
+    .title {
+        font-size: 1.5rem;
+    }
+
+    .quotebox {
+        height: 300px;
+    }
+
+    button {
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width: 426px) and (max-width:860px){
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    .title {
+        font-size: 1.5rem;
+    }
+
+    .quotebox {
+        height: 300px;
+    }
+
+    button {
+        margin: 0;
+    }
+
+}
+ 
+@media only screen and (min-width: 1024px) {
+    button {
+        font-size: 2rem;
+        padding: 30px 25px;
+        border: 0.1em solid black;
+    }
+}
+

@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "The Wicker Man",
+        "actor": "Nicolas Cage",
+        "genre": "kauhu",
+        "description": "Remake from a 70's classic that took 'some' artistic liberties.",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quotes":[ "OH, NO! NOT THE BEES! NOT THE BEES! AAAAAHHHHH! OH, THEY'RE IN MY EYES! MY EYES! AAAAHHHHH! AAAAAGGHHH!", "Killing me won’t bring back your god damn honey!", "What's in the bag? A shark or something?" ]
+    },
+    {
+        "id": 2,
+        "title": "The Family Man",
+        "actor": "Nicolas Cage",
+        "genre": "romantiikka",
+        "description": "Nic Cage rom com",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quotes":[ "I wake up in the morning covered in dog saliva. I drop the kids off, spend 8 hours selling tires retail. Retail, Kate. I pick the kids up, walk the dog, which by the way, carries the added bonus of carting away her monstrous crap. I play with the kids, take out the garbage, get 6 hours of sleep if I'm lucky and then everything starts all over again. So-so what's in it for me? Wh-where are my-my Mary Janes? ", "Then I'm going to spend four hours skiing alone. Completely and utterly alone. I'm going to do that because that is my life, that's what's real... and there's nothing I can do to change that. ", "Because you thought I was *cocky*, I'm now on a permanent *acid trip*? " ]
+    },
+    {
+        "id": 3,
+        "title": "The Weather Man",
+        "actor":"Nicolas Cage",
+        "genre": "draama",
+        "description": "Story of a weatherman in the midst of a mid-life crisis.",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quotes":[ "Here's something that if you want your father to think you're not a silly f**k, don't slap a guy across the face with a glove because if you do that, that's what he will think. Unless you're a noble man or something in the nineteenth century. Which I am not.", "I'll bet no one ever threw a pie at, like Harriet Tubman, the founder of the Underground railroad. I'll bet you a million f****ng dollars.", "People don't throw things at me any more. Maybe because I carry a bow around." ]
+    },
+    {
+        "id": 4, 
+        "title": "Clueless", 
+        "actor": "Alicia Silverstone",
+        "genre": "komedia",
+        "description": "Coming of age teen comedy film", 
+        "quotes":[ " No, she’s a full-on Monet. It’s like a painting, see? From far away, it’s OK, but up close, it’s a big old mess. "]
+    },
+    {
+        "id": 5,
+        "title": "Pulp Fiction",
+        "actor": "Uma Thurman", 
+        "genre": "komedia",
+        "quotes": ["Say 'what' again. Say 'what' again, I dare you, I double dare you motherfucker, say what one more Goddamn time!"]
+    },
+    {
+        "id": 6, 
+        "title": "Gone with the wind", 
+        "actor": "Clark Gable",
+        "genre": "draama",
+        "quotes": ["Frankly, my dear, I don't give a damn."]
+    }, 
+    {
+        "id": 7,
+        "title": "Dead Poets Society", 
+        "actor": "Robin Williams",
+        "genre": "draama",
+        "quotes": ["Carpe diem. Seize the day, boys. Make your lives extraordinary."]
+    }, 
+    {
+        "id": 8,
+        "title": "Finding Nemo", 
+        "actor": "Willem Dafoe",
+        "genre": "animaatio",
+        "quotes": ["Fishy? Fishy? Wake up!", "First you were like WHOA! Then we were like WHOA! and then you were like ..whoa.."]
+    },
+    {
+        "id": 9,
+        "title": "Scream", 
+        "actor": "Neve Campbell", 
+        "genre": "kauhu", 
+        "quotes": ["Do You Like Scary Movies?", "You Should Never Say 'Who's There?' Don’t You Watch Scary Movies?"]
+    },
+    {
+        "id": 10, 
+        "title": "The Shining", 
+        "actor": "Jack Nicholson", 
+        "genre": "trilleri",
+        "quotes": ["Here's Johnny", "Redrum. Redrum. REDRUM."]
+    }
+    ]
